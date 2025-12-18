@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/k-tamura/easybuggy.svg?branch=master)](https://travis-ci.org/k-tamura/easybuggy)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub release](https://img.shields.io/github/release/k-tamura/easybuggy.svg)](https://github.com/k-tamura/easybuggy/releases/latest)
 
@@ -8,6 +7,8 @@ EasyBuggy :baby_symbol:
 EasyBuggy is a broken web application in order to understand behavior of bugs and vulnerabilities, for example, [memory leak, deadlock, JVM crash, SQL injection and so on](https://github.com/k-tamura/easybuggy#clock4-easybuggy-can-reproduce).
 
 ![logo](https://raw.githubusercontent.com/wiki/k-tamura/easybuggy/images/mov_eb.gif)
+
+:warning: **Currently, development of EasyBuggy has been temporarily suspended in order to focus on the development of [EasyBuggy Boot](https://github.com/k-tamura/easybuggy4sb/blob/master/README.jp.md). EasyBuggy Boot has more vulnerabilities built in than EasyBuggy, so we recommend using EasyBuggy Boot.**
 
 :clock4: Quick Start
 -
