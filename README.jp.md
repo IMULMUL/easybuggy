@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/k-tamura/easybuggy.svg?branch=master)](https://travis-ci.org/k-tamura/easybuggy)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub release](https://img.shields.io/github/release/k-tamura/easybuggy.svg)](https://github.com/k-tamura/easybuggy/releases/latest)
 
@@ -8,6 +7,8 @@ EasyBuggy :baby_symbol:
 EasyBuggyは、[メモリリーク、デッドロック、JVMクラッシュ、SQLインジェクションなど](https://github.com/k-tamura/easybuggy/wiki)、バグや脆弱性の動作を理解するためにつくられたバグだらけのWebアプリケーションです。
 
 ![logo](https://raw.githubusercontent.com/wiki/k-tamura/easybuggy/images/mov_eb.gif)
+
+:warning: **現在、[EasyBuggy Boot](https://github.com/k-tamura/easybuggy4sb/blob/master/README.jp.md)の開発に注力するため、EasyBuggyの開発を一時的に停止しています。EasyBuggy BootにはEasyBuggyよりも多くの脆弱性が作り込まれていますので、EasyBuggy Bootの利用をお勧めします。**
 
 :clock4: クイックスタート
 -
